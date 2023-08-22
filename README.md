@@ -1,10 +1,4 @@
-# 👋 Hi, I’m @Shaishab10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# <h1 align="center">👋 Hi, I’m Shaishab Poddar</h1>
 
-<!---
-Shaishab10/Shaishab10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+###  <h3 align="center"> A Computer Science & Engineering graduate who is seeking to find an opportunity in the technological sector focusing on SQA with challenging responsibilities in the comfortable working environment for the advancement of theorganization and personal growth.</h3>
