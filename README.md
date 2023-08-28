@@ -11,8 +11,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIwZnI5NmFpdnhpaG91YTlwMWRqdHFib2R6cXAxampwbncxNWFxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHpmahJgMjxL6S29Au/giphy.gif" />
 </div>
 
+
 <div id="badges" align="center" >
-  
+  <h4>📫 How to reach me:</h4>
   <a href="https://www.facebook.com/shaishab.poddar">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
