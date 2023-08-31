@@ -5,9 +5,7 @@
 
 
 
-<div id="header" align="center">
-
-  
+<div id="header" align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIwZnI5NmFpdnhpaG91YTlwMWRqdHFib2R6cXAxampwbncxNWFxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHpmahJgMjxL6S29Au/giphy.gif" />
 </div>
 
@@ -20,4 +18,8 @@
   <a href="https://www.linkedin.com/in/shaishab10/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+
+<div id="header" align="center"> 
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 </div>
