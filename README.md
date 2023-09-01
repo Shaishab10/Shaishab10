@@ -22,7 +22,14 @@
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+&nbsp;
+<div id="stats" align="center">
+<p ><img  src="https://github-readme-stats.vercel.app/api?username=shaishab10&show_icons=true&locale=en" alt="shaishab10" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaishab10&" alt="shaishab10" />
+</p>
+</div>
+&nbsp;
 <div id="header" align="center"> 
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 </div>
