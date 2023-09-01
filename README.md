@@ -13,7 +13,10 @@
 <div id="badges" align="center" >
   <h4>📫 How to reach me:</h4>
   <a href="https://www.facebook.com/shaishab.poddar">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
+  </a>
+    <a href="mailto:shaishabpoddar@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shaishab10/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
