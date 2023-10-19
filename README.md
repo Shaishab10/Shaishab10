@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Testing**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Shaishab10?tab=repositories)
+- 👨‍💻 All of my projects are available on [github](https://github.com/Shaishab10?tab=repositories)
 
-- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1CSAqe3J7-NoKBaXeg1y8AVOqW1eIe2Au/view?usp=sharing)
+- 📄 Know about my experiences in the [Resume](https://drive.google.com/file/d/1CSAqe3J7-NoKBaXeg1y8AVOqW1eIe2Au/view?usp=sharing)
 
 
 
