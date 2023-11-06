@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available on [github](https://github.com/Shaishab10?tab=repositories)
 
-- 📄 Know about my experiences in the [Resume](https://github.com/Shaishab10/Shaishab10/files/13223334/Shaishab_Poddar_SQA_AUST.pdf)
 
 
 
